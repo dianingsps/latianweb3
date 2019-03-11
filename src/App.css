@@ -1,0 +1,85 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+a,
+a:visited {
+  outline: none;
+}
+
+a:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.header {
+  text-align: center;
+}
+
+.nav {
+  width: 500px;
+  margin: 20px auto;
+  max-width: 48em;
+  border: 1px solid #333;
+  border-left: none;
+  border-right: none;
+  text-align: center;
+}
+
+.menu {
+  display: inline-block;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #333;
+  transition: background .15s ease-in;
+}
+
+.menu:hover {
+  background: #ddd;
+}
+
+.Merah.is-active {
+  background: #ef5b5b;
+}
+.Merah.selected{
+  background: #ef5b5b;
+}
+.Kuning.is-active{
+	background: #fbff26;
+}
+.Kuning.selected{
+  background: #fbff26;
+}
+.Biru.is-active {
+background: #7ae4ff;
+}
+.Biru.selected{
+  background: #7ae4ff;
+}
+.Hijau.is-active {
+background: #79f78e;
+}
+.Hijau.selected{
+  background: #79f78e;
+}
+.info {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.selected {
+  margin-left: 5px;
+  padding: 5px 10px;
+  vertical-align: middle;
+  border-radius: 4px;
+  background: #ddd;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 1.5em;
+}
