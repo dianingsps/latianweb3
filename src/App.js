@@ -21,7 +21,10 @@ class App extends Component {
   }
   info(name){
     if(name == 'Calculator'){
-      
+      //display calculator
+    }else{
+      //display default
+      return
     }
   }
 //menusaya(){
