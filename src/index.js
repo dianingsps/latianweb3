@@ -27,7 +27,7 @@ const items = [
     },
     {
         name : "Calculator",
-        color : 'Oranye',
+        color : 'Orange',
         img : '',
     }
 ];

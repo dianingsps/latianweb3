@@ -22,9 +22,27 @@ class App extends Component {
   info(name){
     if(name == 'Calculator'){
       //display calculator
-    }else{
+      return (
+        <div>
+           <span className={"selected "+this.state.color}>
+            {this.state.name}</span><br/><br/>
+            <input type="number" placeholder="angka 1"/>+
+            <input type="number" placeholder="angka 2"/>=
+            <span> .....</span><br/><br/>
+            <button>hitung</button>
+        </div>
+       
+      );
+    }
+    else{
       //display default
-      return
+      return(
+        <div>
+         ini adalah <span className={"selected "+this.state.color}>
+            {this.state.name}</span><br/><br/>
+            <img src={this.state.img} width="200"></img>
+        </div>
+      );
     }
   }
 //menusaya(){
@@ -81,10 +99,8 @@ class App extends Component {
         </nav>
 
          <div className="info">
-          {this.name_function(this.state.name)}
-            ini adalah <span className={"selected "+this.state.color}>
-            {this.state.name}</span><br/><br/>
-            <img src={this.state.img} width="200"></img>
+          {this.info(this.state.name)}
+            
            {/*{this.menusaya()}*/} 
         </div>
 
