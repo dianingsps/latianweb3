@@ -1,13 +1,13 @@
 {
-  "main.css": "/latianweb3/static/css/main.2eaebc05.chunk.css",
-  "main.js": "/latianweb3/static/js/main.5cdebaa0.chunk.js",
-  "main.js.map": "/latianweb3/static/js/main.5cdebaa0.chunk.js.map",
+  "main.css": "/latianweb3/static/css/main.f2fdb628.chunk.css",
+  "main.js": "/latianweb3/static/js/main.2fbc6163.chunk.js",
+  "main.js.map": "/latianweb3/static/js/main.2fbc6163.chunk.js.map",
   "runtime~main.js": "/latianweb3/static/js/runtime~main.67c505f8.js",
   "runtime~main.js.map": "/latianweb3/static/js/runtime~main.67c505f8.js.map",
   "static/js/2.681b5105.chunk.js": "/latianweb3/static/js/2.681b5105.chunk.js",
   "static/js/2.681b5105.chunk.js.map": "/latianweb3/static/js/2.681b5105.chunk.js.map",
   "index.html": "/latianweb3/index.html",
-  "precache-manifest.4a54f64d8e382f650e3c6875d227e171.js": "/latianweb3/precache-manifest.4a54f64d8e382f650e3c6875d227e171.js",
+  "precache-manifest.055b2e29e43263e85dd10ae651ffca86.js": "/latianweb3/precache-manifest.055b2e29e43263e85dd10ae651ffca86.js",
   "service-worker.js": "/latianweb3/service-worker.js",
-  "static/css/main.2eaebc05.chunk.css.map": "/latianweb3/static/css/main.2eaebc05.chunk.css.map"
+  "static/css/main.f2fdb628.chunk.css.map": "/latianweb3/static/css/main.f2fdb628.chunk.css.map"
 }

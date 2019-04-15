@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/latianweb3/static/js/runtime~main.67c505f8.js"
   },
   {
-    "revision": "5cdebaa0168ed3fb9705",
-    "url": "/latianweb3/static/js/main.5cdebaa0.chunk.js"
+    "revision": "2fbc616320b8203c573c",
+    "url": "/latianweb3/static/js/main.2fbc6163.chunk.js"
   },
   {
     "revision": "681b51057d74cfa8975d",
     "url": "/latianweb3/static/js/2.681b5105.chunk.js"
   },
   {
-    "revision": "5cdebaa0168ed3fb9705",
-    "url": "/latianweb3/static/css/main.2eaebc05.chunk.css"
+    "revision": "2fbc616320b8203c573c",
+    "url": "/latianweb3/static/css/main.f2fdb628.chunk.css"
   },
   {
-    "revision": "be0fb2a80390cf6d1420f8e477cf8148",
+    "revision": "7a268414dae850ec779780a30a4cb386",
     "url": "/latianweb3/index.html"
   }
 ];
