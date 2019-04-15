@@ -19,6 +19,11 @@ class App extends Component {
       name: menu.name,
     });
   }
+  info(name){
+    if(name == 'Calculator'){
+      
+    }
+  }
 //menusaya(){
 //  var gambar;
  //   if (this.state.active.toLowerCase() === 'Merah'){
@@ -73,6 +78,7 @@ class App extends Component {
         </nav>
 
          <div className="info">
+          {this.name_function(this.state.name)}
             ini adalah <span className={"selected "+this.state.color}>
             {this.state.name}</span><br/><br/>
             <img src={this.state.img} width="200"></img>
