@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
-
+import Profile from './ProfileCustom.js';
+import logo from './logo.svg';
+import Calculator from './CustomCalculator.js';
 class App extends Component {
   constructor(props){
     super(props);
@@ -8,9 +10,13 @@ class App extends Component {
     this.state = {
       color : 'Merah',
       img: 'Merah.jpg',
+      nilai1 : null,
+      nilai2: null,
+      operator: null,
+      hasil: null,
     };
   }
-
+  
   //Untuk memperbarui state sesuai dengan menu yang dipilih
   clicked(menu){
     this.setState({
@@ -22,17 +28,11 @@ class App extends Component {
   info(name){
     if(name == 'Calculator'){
       //display calculator
-      return (
-        <div>
-           <span className={"selected "+this.state.color}>
-            {this.state.name}</span><br/><br/>
-            <input type="number" placeholder="angka 1"/>+
-            <input type="number" placeholder="angka 2"/>=
-            <span> .....</span><br/><br/>
-            <button>hitung</button>
-        </div>
-       
-      );
+      return <Calculator/>;
+    }
+    else if(name == 'Profile'){
+        //display menu profile
+        return<Profile/>;
     }
     else{
       //display default
