@@ -32,7 +32,7 @@ class App extends Component {
     }
     else if(name == 'Profile'){
         //display menu profile
-        return<Profile/>;
+        return<Profile nama="DianingSPS" />;
     }
     else{
       //display default

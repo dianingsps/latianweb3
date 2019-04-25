@@ -8,7 +8,10 @@ class ProfileCustom extends Component {
 
   render() {
     return (
+      <div>
+      <h2>{this.props.nama}</h2>
       <img src="disney.jpg" width="450px"></img>
+      </div>
     );
   }
 }
