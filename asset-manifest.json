@@ -1,14 +1,18 @@
 {
-  "main.css": "/latianweb3/static/css/main.f36fca27.chunk.css",
-  "main.js": "/latianweb3/static/js/main.ce6e3d8d.chunk.js",
-  "main.js.map": "/latianweb3/static/js/main.ce6e3d8d.chunk.js.map",
-  "runtime~main.js": "/latianweb3/static/js/runtime~main.f2beccc9.js",
-  "runtime~main.js.map": "/latianweb3/static/js/runtime~main.f2beccc9.js.map",
-  "static/js/2.e703e8cc.chunk.js": "/latianweb3/static/js/2.e703e8cc.chunk.js",
-  "static/js/2.e703e8cc.chunk.js.map": "/latianweb3/static/js/2.e703e8cc.chunk.js.map",
-  "index.html": "/latianweb3/index.html",
-  "precache-manifest.1efa533baf1c08cbf89e254c80fdea0f.js": "/latianweb3/precache-manifest.1efa533baf1c08cbf89e254c80fdea0f.js",
-  "service-worker.js": "/latianweb3/service-worker.js",
-  "static/css/main.f36fca27.chunk.css.map": "/latianweb3/static/css/main.f36fca27.chunk.css.map",
-  "static/media/logo.svg": "/latianweb3/static/media/logo.ee7cd8ed.svg"
+  "files": {
+    "main.css": "/latianweb3/static/css/main.71b0204b.chunk.css",
+    "main.js": "/latianweb3/static/js/main.4dabbca4.chunk.js",
+    "main.js.map": "/latianweb3/static/js/main.4dabbca4.chunk.js.map",
+    "runtime~main.js": "/latianweb3/static/js/runtime~main.f2beccc9.js",
+    "runtime~main.js.map": "/latianweb3/static/js/runtime~main.f2beccc9.js.map",
+    "static/css/2.dc646829.chunk.css": "/latianweb3/static/css/2.dc646829.chunk.css",
+    "static/js/2.8caf5d1a.chunk.js": "/latianweb3/static/js/2.8caf5d1a.chunk.js",
+    "static/js/2.8caf5d1a.chunk.js.map": "/latianweb3/static/js/2.8caf5d1a.chunk.js.map",
+    "index.html": "/latianweb3/index.html",
+    "precache-manifest.1ecd9b775c7109ca76690ea2b91cc73c.js": "/latianweb3/precache-manifest.1ecd9b775c7109ca76690ea2b91cc73c.js",
+    "service-worker.js": "/latianweb3/service-worker.js",
+    "static/css/2.dc646829.chunk.css.map": "/latianweb3/static/css/2.dc646829.chunk.css.map",
+    "static/css/main.71b0204b.chunk.css.map": "/latianweb3/static/css/main.71b0204b.chunk.css.map",
+    "static/media/logo.svg": "/latianweb3/static/media/logo.ee7cd8ed.svg"
+  }
 }
